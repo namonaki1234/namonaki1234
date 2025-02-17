@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 [![Twitter: lightst42265164](https://img.shields.io/twitter/follow/lightst42265164?style=social)](https://twitter.com/lightst42265164)
 
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namonaki1234&theme=vue)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=namonaki1234&show_icons=true)
