@@ -1,6 +1,7 @@
 ## Hello World! 👋
 
 <!--
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=namonaki1234&left_color=gray&right_color=blue)
 **namonaki1234/namonaki1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
@@ -14,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 [![Twitter: lightst42265164](https://img.shields.io/twitter/follow/lightst42265164?style=social)](https://twitter.com/lightst42265164)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=namonaki1234&left_color=gray&right_color=blue)
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namonaki1234&theme=vue)
 
